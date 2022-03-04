@@ -1,0 +1,20 @@
+C:\Users\vszto\source\repos\PunchOut\PunchOut\obj\Debug\PunchOut.csprojAssemblyReference.cache
+C:\Users\vszto\source\repos\PunchOut\PunchOut\obj\Debug\PunchOut.Properties.Resources.resources
+C:\Users\vszto\source\repos\PunchOut\PunchOut\obj\Debug\PunchOut.csproj.GenerateResource.cache
+C:\Users\vszto\source\repos\PunchOut\PunchOut\obj\Debug\PunchOut.csproj.CoreCompileInputs.cache
+C:\Users\vszto\source\repos\PunchOut\PunchOut\bin\Debug\PunchOut.exe.config
+C:\Users\vszto\source\repos\PunchOut\PunchOut\bin\Debug\PunchOut.exe
+C:\Users\vszto\source\repos\PunchOut\PunchOut\bin\Debug\PunchOut.pdb
+C:\Users\vszto\source\repos\PunchOut\PunchOut\obj\Debug\PunchOut.exe
+C:\Users\vszto\source\repos\PunchOut\PunchOut\obj\Debug\PunchOut.pdb
+C:\Users\vszto\source\repos\PunchOut\PunchOut\obj\Debug\PunchOut.window.resources
+F:\Documents\GitHub\vaskosztamas\Suli&Hobbi projektek\PunchOut\PunchOut\obj\Debug\PunchOut.csprojAssemblyReference.cache
+F:\Documents\GitHub\vaskosztamas\Suli&Hobbi projektek\PunchOut\PunchOut\obj\Debug\PunchOut.window.resources
+F:\Documents\GitHub\vaskosztamas\Suli&Hobbi projektek\PunchOut\PunchOut\obj\Debug\PunchOut.Properties.Resources.resources
+F:\Documents\GitHub\vaskosztamas\Suli&Hobbi projektek\PunchOut\PunchOut\obj\Debug\PunchOut.csproj.GenerateResource.cache
+F:\Documents\GitHub\vaskosztamas\Suli&Hobbi projektek\PunchOut\PunchOut\obj\Debug\PunchOut.csproj.CoreCompileInputs.cache
+F:\Documents\GitHub\vaskosztamas\Suli&Hobbi projektek\PunchOut\PunchOut\obj\Debug\PunchOut.exe
+F:\Documents\GitHub\vaskosztamas\Suli&Hobbi projektek\PunchOut\PunchOut\obj\Debug\PunchOut.pdb
+F:\Documents\GitHub\vaskosztamas\Suli&Hobbi projektek\PunchOut\PunchOut\bin\Debug\PunchOut.exe.config
+F:\Documents\GitHub\vaskosztamas\Suli&Hobbi projektek\PunchOut\PunchOut\bin\Debug\PunchOut.exe
+F:\Documents\GitHub\vaskosztamas\Suli&Hobbi projektek\PunchOut\PunchOut\bin\Debug\PunchOut.pdb
